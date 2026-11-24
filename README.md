@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="chatgpt-mirror-lite" width="840" />
-
 # ChatgptMirrorLite — Self-Hosted ChatGPT Mirror for Teams (One-Command Setup, Prebuilt Release)
 
 <p><strong>ChatgptMirrorLite — Self-Hosted ChatGPT Mirror for Teams (One-Command Setup, Prebuilt Release): Your own ChatGPT mirror — one container, no logins. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
