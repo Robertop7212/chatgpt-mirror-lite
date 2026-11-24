@@ -93,3 +93,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: chatgpt-mirror-lite, mirror, self-hosted, proxy, team, chatgpt, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+chatgpt mirror self-hosted proxy team chatgpt-mirror-lite gpt-mirror-selfhosted chatgpt-mirror-selfhosted windows portable prebuilt x64 free download
+related: chatgpt, mirror, self-hosted, proxy, team
